@@ -36,14 +36,14 @@ pytest --cov=app
 Enter operation or command: add
 Enter first number: 5
 Enter second number: 3
-✅ Result: 5.0 + 3.0 = 8.0
+Result: 5.0 + 3.0 = 8.0
 
 Enter operation or command: history
 Calculation History (1 calculations):
 1. 5.0 + 3.0 = 8.0
 
 Enter operation or command: exit
-👋 Thank you for using the calculator. Goodbye!
+Thank you for using the calculator. Goodbye!
 ```
 
 ## Project Structure
@@ -108,12 +108,5 @@ pytest --cov=app --cov-report=html
 
 ## Author
 
-**GG** - Data Science Graduate Student @ NJIT
+**Gautam Govindarasan** 
 
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
-## Course Information
-
-**Institution:** New Jersey Institute of Technology  
-**Course:** [Your Course Number]  
-**Focus:** OOP principles, design patterns, testing, and CI/CD
